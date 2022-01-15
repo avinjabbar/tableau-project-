@@ -1,5 +1,5 @@
 # tableau-project-
-Opioids death by over dose
+Opioid death by over dose
 
 ### Breakdown on tablea include
 - Number of deaths by state
