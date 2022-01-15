@@ -7,6 +7,7 @@ Opioid death by over dose
 - Opioid claims by state per specialty
 - Overdoes deaths by drug type
 - pioid claim count vs total claim count
+<img width="532" alt="Screen Shot 2022-01-15 at 10 47 17 AM" src="https://user-images.githubusercontent.com/92557120/149630915-53af0b4b-83ef-484a-a954-2838375a26af.png">
 
-<img src =”https://www.google.com/search?q=opioids+images&sxsrf=AOaemvILBBDYbBmPbJSKN_Qz5ZvGyp6QVA:1642264894243&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiFtZe9mbT1AhWvm2oFHdDPD74Q_AUoAXoECAEQAw&biw=1316&bih=609&dpr=2#imgrc=G43yGBDea9-TlM”/>
+![Screenshot](screenshot.png)
 
