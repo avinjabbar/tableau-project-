@@ -1,7 +1,7 @@
 # tableau-project-
 Opioid death by over dose
 
-### Breakdown on tableau include
+### Breakdown on tableau include:
 - Number of deaths by state
 - Prescribed percent by specialty
 - Opioid claims by state per specialty
